@@ -1,1 +1,2 @@
 # geolocation
+# vue-maps-mapbox
